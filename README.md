@@ -11,7 +11,7 @@
   
 #### Antes de empezar
 
-__Algo importante:__ nuestra conferencia adhiere a un [Código de Conducta](https://confcodeofconduct.com/), por lo cual toda persona que realice una comunicación que tenga el nombre o la identidad visual de la WebConf (tanto fuera como dentro de la orgazación), implícitamente está adhiriendo a estos lineamientos.
+__Algo importante:__ nuestra conferencia adhiere a un [Código de Conducta](https://confcodeofconduct.com/), por lo cual toda persona que realice una comunicación que tenga el nombre o la identidad visual de la WebConf (tanto fuera como dentro de la organización), implícitamente está adhiriendo a estos lineamientos.
 
 Si tenés alguna duda puntual al respecto, contactanos por cualquiera de nuestras redes sociales o por correo a `hola@webconf.tech` para asesorarte mejor.
 
