@@ -32,6 +32,11 @@ Nuestra identidad está formada por dos signos: la marca del evento y el ícono 
 - La marca se utiliza siempre que haya suficiente espacio vertical y horizontal (al menos 130x140 px aproximadamente). Se debe garantizar la legibilidad de la ciudad y año del evento.
 - El ícono se utiliza como forma abreviada, para espacios más reducidos.
 
+Podés bajarlos en PNG, PNG para Retina Display o SVG:
+
+- Marca: [PNG](https://github.com/WebConfTech/media/blob/master/Graphic%20Brand.png?raw=true) | [PNG@2x](https://github.com/WebConfTech/media/blob/master/Graphic%20Brand@2x.png?raw=true) | [SVG](https://github.com/WebConfTech/media/blob/master/Graphic%20Brand.svg?raw=true)
+- Ícono: [PNG](https://github.com/WebConfTech/media/blob/master/Graphic%20Brand%20Icon%20(Jumbo).png?raw=true) | [PNG@2x](https://github.com/WebConfTech/media/blob/master/Graphic%20Brand%20Icon%20(Jumbo)@2x.png?raw=true) | [SVG](https://github.com/WebConfTech/media/blob/master/Graphic%20Brand%20Icon%20(Jumbo).svg?raw=true)
+
 Trabajamos con dos colores principales:
 
 <img align="left" width="45%" src="https://user-images.githubusercontent.com/118913/54388736-a3778c80-465b-11e9-804f-e9d9e104dac9.png"><br><img width="45%" src="https://user-images.githubusercontent.com/118913/54388769-b9854d00-465b-11e9-8b12-93cec15e12c4.png"><br clear="all"/>
@@ -56,5 +61,13 @@ También podés retwittear nuestras publicaciones.
 
 Podés utilizar estos fondos (enteros, recortados, rotados, ¡como te gusten! - siempre y cuando preserves los colores):
 
+**Panorama Breeze**
 <img width="100%" src="https://github.com/WebConfTech/media/blob/master/Background%20-%20Panorama%20Breeze.png?raw=true">
+
+**Window Breeze**
 <img width="100%" src="https://github.com/WebConfTech/media/blob/master/Background%20-%20Window%20Breeze.png?raw=true">
+
+Podés descargar los fondos desde acá:
+
+- [Panorama Breeze](https://github.com/WebConfTech/media/blob/master/Background%20-%20Panorama%20Breeze.png?raw=true)
+- [Window Breeze](https://github.com/WebConfTech/media/blob/master/Background%20-%20Window%20Breeze.png?raw=true)
