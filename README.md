@@ -71,3 +71,10 @@ Podés descargar los fondos desde acá:
 
 - [Panorama Breeze](https://github.com/WebConfTech/media/blob/master/Background%20-%20Panorama%20Breeze.png?raw=true)
 - [Window Breeze](https://github.com/WebConfTech/media/blob/master/Background%20-%20Window%20Breeze.png?raw=true)
+
+#### ¡También estamos en el mundo impreso!
+
+<a href="https://github.com/WebConfTech/media/blob/master/Typodiamond%20(Printready).pdf?raw=true"><img width="150" src="https://user-images.githubusercontent.com/118913/55255185-36e1bd80-5217-11e9-8bbf-1807ea5015a3.png" align="left"></a>
+Este es nuestro póster oficial. [Podés descargarlo e imprimirlo](https://github.com/WebConfTech/media/blob/master/Typodiamond%20(Printready).pdf?raw=true), ¡y pegarlo donde quieras!
+
+Es un PDF tamaño A3, listo para imprenta. Podés imprimirlo en color o blanco y negro :)
