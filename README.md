@@ -27,15 +27,15 @@ Nuestra identidad está formada por dos signos: la marca del evento y el ícono 
 
 | Marca | Ícono |
 | ----- | ----- |
-| <img src="https://github.com/WebConfTech/media/blob/master/Graphic%20Brand.png?raw=true"> | <img src="https://github.com/WebConfTech/media/blob/master/Graphic%20Brand%20Icon%20(Jumbo).png?raw=true"> |
+| <img src="https://github.com/WebConfTech/media/blob/master/Branding/Graphic%20Brand.png?raw=true"> | <img src="https://github.com/WebConfTech/media/blob/master/Branding/Graphic%20Brand%20Icon%20(Jumbo).png?raw=true"> |
 
 - La marca se utiliza siempre que haya suficiente espacio vertical y horizontal (al menos 130x140 px aproximadamente). Se debe garantizar la legibilidad de la ciudad y año del evento.
 - El ícono se utiliza como forma abreviada, para espacios más reducidos.
 
 Podés bajarlos en PNG, PNG para Retina Display o SVG:
 
-- Marca: [PNG](https://github.com/WebConfTech/media/blob/master/Graphic%20Brand.png?raw=true) | [PNG@2x](https://github.com/WebConfTech/media/blob/master/Graphic%20Brand@2x.png?raw=true) | [SVG](https://github.com/WebConfTech/media/blob/master/Graphic%20Brand.svg?raw=true)
-- Ícono: [PNG](https://github.com/WebConfTech/media/blob/master/Graphic%20Brand%20Icon%20(Jumbo).png?raw=true) | [PNG@2x](https://github.com/WebConfTech/media/blob/master/Graphic%20Brand%20Icon%20(Jumbo)@2x.png?raw=true) | [SVG](https://github.com/WebConfTech/media/blob/master/Graphic%20Brand%20Icon%20(Jumbo).svg?raw=true)
+- Marca: [PNG](https://github.com/WebConfTech/media/blob/master/Branding/Graphic%20Brand.png?raw=true) | [PNG@2x](https://github.com/WebConfTech/media/blob/master/Branding/Graphic%20Brand@2x.png?raw=true) | [SVG](https://github.com/WebConfTech/media/blob/master/Branding/Graphic%20Brand.svg?raw=true)
+- Ícono: [PNG](https://github.com/WebConfTech/media/blob/master/Branding/Graphic%20Brand%20Icon%20(Jumbo).png?raw=true) | [PNG@2x](https://github.com/WebConfTech/media/blob/master/Branding/Graphic%20Brand%20Icon%20(Jumbo)@2x.png?raw=true) | [SVG](https://github.com/WebConfTech/media/blob/master/Branding/Graphic%20Brand%20Icon%20(Jumbo).svg?raw=true)
 
 Trabajamos con dos colores principales:
 
@@ -62,19 +62,29 @@ También podés retwittear nuestras publicaciones.
 Podés utilizar estos fondos (enteros, recortados, rotados, ¡como te gusten! - siempre y cuando preserves los colores):
 
 **Panorama Breeze**
-<img width="100%" src="https://github.com/WebConfTech/media/blob/master/Background%20-%20Panorama%20Breeze.png?raw=true">
+<img width="100%" src="https://github.com/WebConfTech/media/blob/master/Backgrounds/Background%20-%20Panorama%20Breeze.png?raw=true">
 
 **Window Breeze**
-<img width="100%" src="https://github.com/WebConfTech/media/blob/master/Background%20-%20Window%20Breeze.png?raw=true">
+<img width="100%" src="https://github.com/WebConfTech/media/blob/master/Backgrounds/Background%20-%20Window%20Breeze.png?raw=true">
 
 Podés descargar los fondos desde acá:
 
-- [Panorama Breeze](https://github.com/WebConfTech/media/blob/master/Background%20-%20Panorama%20Breeze.png?raw=true)
-- [Window Breeze](https://github.com/WebConfTech/media/blob/master/Background%20-%20Window%20Breeze.png?raw=true)
+- [Panorama Breeze](https://github.com/WebConfTech/media/blob/master/Backgrounds/Background%20-%20Panorama%20Breeze.png?raw=true)
+- [Window Breeze](https://github.com/WebConfTech/media/blob/master/Backgrounds/Background%20-%20Window%20Breeze.png?raw=true)
 
 #### ¡También estamos en el mundo impreso!
 
+__Pósters__
+
 <a href="https://github.com/WebConfTech/media/blob/master/Typodiamond%20(Printready).pdf?raw=true"><img width="150" src="https://user-images.githubusercontent.com/118913/55255185-36e1bd80-5217-11e9-8bbf-1807ea5015a3.png" align="left"></a>
-Este es nuestro póster oficial. [Podés descargarlo e imprimirlo](https://github.com/WebConfTech/media/blob/master/Typodiamond%20(Printready).pdf?raw=true), ¡y pegarlo donde quieras!
+Este es nuestro póster oficial. [Podés descargarlo e imprimirlo](https://github.com/WebConfTech/media/blob/master/Posters/Typodiamond%20(Printready).pdf?raw=true), ¡y pegarlo donde quieras! 
 
 Es un PDF tamaño A3, listo para imprenta. Podés imprimirlo en color o blanco y negro :)
+
+<br clear="left"/>
+
+Tenemos otros diseños alternativos incluyendo las fotos de nuestros disertantes:
+
+- Póster con speakers (Fondo blanco) - [Descargar PDF](https://github.com/WebConfTech/media/blob/master/Posters/Speaker%20Diamonds%20(Printready)%20-%20White.pdf?raw=true)
+
+- Póster con speakers (Fondo a color) - [Descargar PDF](https://github.com/WebConfTech/media/blob/master/Posters/Speaker%20Diamonds%20(Printready)%20-%20Gradient.pdf?raw=true)
